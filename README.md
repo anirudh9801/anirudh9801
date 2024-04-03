@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @anirudh9801
-- 👀 I’m interested in web development,android development,coding
-- 🌱 I’m currently learning java,html,css,javascript
-- 💞️ I’m looking to collaborate on java
-- 📫 How to reach me sunnykumar16mar@gmail.com
-- [![@anirudh9801's Holopin board](https://holopin.io/api/user/board?user=anirudh9801)](https://holopin.io/@anirudh9801)
-- 
-<!---
-anirudh9801/anirudh9801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to My GitHub Profile! 👋
+
+## About Me
+I'm Anirudh Mehta, an Associate Software Engineer at Infinite Computer Solutions, based in Bangalore, India. I'm passionate about crafting high-quality software solutions and contributing to innovative projects.
+
+## Skills
+- Programming Languages: Java,C++,JavaScript,HTML,CSS
+- Technologies: Maven,JSP (JavaServer Pages),Hibernate,JDBC (Java Database Connectivity),JUnit (Java Unit Testing Framework),Spring Boot, JavaServer Faces (JSF)
+- Tools: Git, GitHub, Visual Studio Code (VSCode), Eclipse, Postman
+
+## Get in Touch
+- LinkedIn: https://www.linkedin.com/in/anirudhmehtaa/
+- Email: sunnykumar16mar@gmail.com
+
+Feel free to explore my repositories and reach out for collaborations or discussions!
+
