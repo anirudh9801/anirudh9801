@@ -10,7 +10,7 @@ I'm Anirudh Mehta, an Associate Software Engineer at Infinite Computer Solutions
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/anirudhmehtaa/
-- Email: sunnykumar16mar@gmail.com
+- Email: anirudhmehta16mar@gmail.com
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
 
